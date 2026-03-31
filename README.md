@@ -1,0 +1,1 @@
+LandVerify is a digital platform that helps property owners register land, enables admin verification, and allows buyers to confirm authenticity before purchase. It's purpose is to combat land/property related fraud
